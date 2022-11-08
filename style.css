@@ -1,0 +1,133 @@
+body {
+    background-image: url(bg-header-desktop.png);
+    background-repeat: no-repeat;
+    text-align: center;
+
+} 
+h1 {
+    text-align: center;
+    font-size: 45px;
+}
+p {
+    color: rgb(148, 148, 148);
+    font-size: 25px;
+}
+.top {
+    margin-top: 160px;
+}
+.top p {
+    text-align: center;
+}
+.one {
+    margin-top: 100px;
+}
+
+button {
+    width: 200px;
+    height: 50px;
+    border-radius: 50px;
+    border: 0;
+    background-color: rgb(84, 128, 224);
+    color: white;
+    font-size: medium;
+    margin: 10px;
+    line-height: 2px;
+    
+}
+.green {
+   background-color: rgb(17, 199, 160);
+}
+.clip {
+    margin-bottom: 80px;
+    text-align: center;
+}
+.desktop {
+    float: left;
+    margin-right: 80px;
+}
+.text {
+    padding-top: 50px;
+    padding: 40px;
+}
+.text, .h, p {
+    text-align: start;
+    margin-bottom: 70px;
+}
+.text, .h {
+    margin-bottom: 20px;
+}
+.two {
+    margin-top: 150px;
+}
+.whe {
+    text-align: center;
+}
+.three {
+    display: inline-flex;
+    margin: 100px;
+}
+.create {
+    margin-right: 50px;
+}
+.sneak {
+    margin-left: 50px;
+}
+.four {
+    margin-bottom: 120px;
+}
+.img {
+    margin: 40px;
+}
+.five {
+    font-size: x-large;
+}
+.log {
+    width: 50px;
+    float: left;
+    margin-left: 90px;
+    margin-top: 15px;
+}
+.footer {
+    background-color: rgba(238, 238, 238, 0.842);
+    height: 100px;
+    padding: 30px 0;
+    margin-top: 100px;
+}
+
+.words {
+    margin-right: 500px;
+}
+
+.words li {
+    display: inline-block;
+    padding: 0 40px;
+    list-style: none;
+}
+.words li a {
+    text-decoration: none;
+    color: rgb(112, 112, 112);
+    transition: all 0.3s ease;
+}
+.wods {
+    margin-right: 675px;
+}
+.wods li {
+    display: inline-block;
+    padding: 0 40px;
+    list-style: none;
+}
+.wods li a {
+    text-decoration: none;
+    color: rgb(112, 112, 112);
+}
+.socials {
+    display: inline-block;
+    float: right;
+    margin-right: 50px;
+    margin-top: 20px;
+ 
+}
+.socials img {
+    padding: 0 20px;
+    text-align: end;
+}
